@@ -72,12 +72,3 @@ This will generate the necessary executable files.
 ### **Shared Memory (`shared_memory.h`)**
 - Enables inter-process communication (if implemented).
 
-## 🤝 Contributing
-Feel free to fork this repository and submit pull requests. Contributions are always welcome! 😊
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-💡 *Built with C, Sockets, and Passion!* 🚀
-
